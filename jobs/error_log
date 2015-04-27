@@ -1,0 +1,1 @@
+[19-Aug-2014 22:40:49 America/Chicago] PHP Fatal error:  Call to undefined function php_info() in /home2/singuva/public_html/perooz.io/dev/jobs/update_sess.php on line 9

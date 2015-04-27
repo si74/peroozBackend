@@ -1,0 +1,52 @@
+[22-Aug-2014 01:10:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 74
+[28-Aug-2014 00:01:01 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 44
+[28-Aug-2014 00:01:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 46
+[28-Aug-2014 20:53:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 135
+[02-Sep-2014 19:00:23 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 185
+[02-Sep-2014 19:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 193
+[02-Sep-2014 19:01:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 198
+[22-Sep-2014 20:34:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 283
+[23-Sep-2014 12:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$response' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 181
+[24-Sep-2014 20:31:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:31:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:32:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:05 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:33:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:34:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:36:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:36:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:36:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:37:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:37:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:37:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:37:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:37:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:37:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[24-Sep-2014 20:38:56 America/Chicago] PHP Parse error:  syntax error, unexpected '$login_lock' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/config.php on line 34
+[25-Sep-2014 17:12:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$possible_method' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 90
+[25-Sep-2014 17:12:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$possible_method' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 90
+[25-Sep-2014 17:13:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$possible_method' (T_VARIABLE) in /home2/singuva/public_html/perooz.io/dev/api/index.php on line 90

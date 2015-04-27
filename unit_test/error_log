@@ -1,0 +1,7 @@
+[28-Aug-2014 11:36:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'parse_url' (T_STRING) in /home2/singuva/public_html/perooz.io/dev/api/analyze_uri.php on line 23
+[28-Aug-2014 16:21:30 America/Chicago] PHP Fatal error:  Call to undefined function analyze_search_uri() in /home2/singuva/public_html/perooz.io/dev/unit_test/api_uri_test.php on line 8
+[28-Aug-2014 17:13:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/singuva/public_html/perooz.io/dev/api/analyze_uri.php on line 26
+[28-Aug-2014 20:36:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'GET' (T_STRING) in /home2/singuva/public_html/perooz.io/dev/unit_test/api_uri_test.php on line 6
+[15-Sep-2014 11:03:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/singuva/public_html/perooz.io/dev/unit_test/cracklepop.php on line 3
+[15-Sep-2014 11:03:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home2/singuva/public_html/perooz.io/dev/unit_test/cracklepop.php on line 3
+[15-Sep-2014 11:10:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/singuva/public_html/perooz.io/dev/unit_test/cracklepop.php on line 27

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="author" content="perooz">
+	<meta name="description" content="perooz join page">
+	<meta name="keywords" content="journalism,truth,citizen">
+	<!--Adjust viewport size-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--Link to Relevant Style-sheet-->
+	<link rel="stylesheet" href="style/joinus_style.css"  type="text/css">
+	<!--Link to Relevant Jquery Files -->
+	<script src="js/config.js"></script>
+	<script src="js/jquery_1.11.0.js"></script>
+	<script src="js/joinus.js"></script>
+</head>
+<body>
+	<!--page header with logo-->
+	<div id="header">
+		<div id="logo"><img src='images/blueperooz.png' alt='Perooz' style='height:6em;width:auto;'></div>
+	</div>
+	<!--page body-->
+	<div id="main">
+		<!--nested container used for vertical centering-->
+		<div id="outer">
+			<div id="middle">
+				<div id="inner">
+					<!--sign up form for the website-->
+					<div id="sign_up_title"><b>Interested in joining? Please complete and submit the form below to sign up: </b></div><br/><br/>
+					<form id="sign_up_form">
+						<div id="fname_entry">
+							First Name: <input id="fname" type="text"/>
+							<div id="fname_error"></div>
+						</div><br/>
+						<div id="lname_entry">
+							Last Name: <input id="lname" type="text"/>
+							<div id="lname_error"></div>
+						</div><br/>
+						<div id="email_entry">
+							Email: <input id="email" type="text" />
+							<div id="email_error"></div>
+						</div><br/>
+						<div id="username_entry">
+							Username: <input id="username" type="text"/>
+							<div id="username_error"></div>
+						</div><br/>
+						<div id="pwd_entry">
+							Password: <input id="pwd" type="password" />
+							<div id="pwd_error"></div>
+						</div><br/>
+						<button type="button" id="submit_form">Submit</button>
+						<div id="invalid-form-error-message"></div>
+					</form>
+					<!--****************************-->
+				</div>
+			</div>
+		</div>
+		<!--********************************************-->
+	</div>
+</body>
+</html>

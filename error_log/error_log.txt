@@ -1,0 +1,6 @@
+[03-Aug-2014 18:29:27 America/Chicago] PHP Warning:  require_once(controller/lgn/PasswordHash.php): failed to open stream: No such file or directory in /home2/singuva/public_html/perooz.io/dev/joinus.php on line 11
+[03-Aug-2014 18:29:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'controller/lgn/PasswordHash.php' (include_path='.:/opt/php54/lib/php') in /home2/singuva/public_html/perooz.io/dev/joinus.php on line 11
+[22-Sep-2014 21:37:11 America/Chicago] PHP Warning:  require_once(Db/mysqldb.php): failed to open stream: No such file or directory in /home2/singuva/public_html/perooz.io/dev/index.php on line 10
+[22-Sep-2014 21:37:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Db/mysqldb.php' (include_path='.:/opt/php54/lib/php') in /home2/singuva/public_html/perooz.io/dev/index.php on line 10
+[27-Oct-2014 20:18:41 America/Chicago] PHP Warning:  require_once(Db/mysqldb.php): failed to open stream: No such file or directory in /home2/singuva/public_html/perooz.io/dev/index.php on line 10
+[27-Oct-2014 20:18:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Db/mysqldb.php' (include_path='.:/opt/php54/lib/php') in /home2/singuva/public_html/perooz.io/dev/index.php on line 10

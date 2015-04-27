@@ -1,0 +1,6 @@
+[03-Aug-2014 18:43:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home2/singuva/public_html/perooz.io/dev/api/auth/login.php on line 53
+[03-Aug-2014 18:48:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home2/singuva/public_html/perooz.io/dev/api/auth/login.php on line 73
+[03-Aug-2014 18:49:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/singuva/public_html/perooz.io/dev/api/auth/login.php on line 102
+[03-Aug-2014 18:50:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home2/singuva/public_html/perooz.io/dev/api/auth/login.php on line 112
+[04-Aug-2014 00:30:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting '(' in /home2/singuva/public_html/perooz.io/dev/api/auth/lock.php on line 34
+[04-Aug-2014 00:32:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/singuva/public_html/perooz.io/dev/api/auth/lock.php on line 47
